@@ -102,7 +102,19 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/subhash-vishwakarma0507/subhash-vishwakarma0507/output/github-contribution-grid-snake-dark.svg" />
+  💻 Built with passion by <b>Subhash Vishwakarma</b> 🚀
 </p>
 
-Thanks....Visit again
+<p align="center">
+  ⭐ If you like my work, consider giving a star!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=140&section=footer&text=Thanks%20for%20visiting%20🚀&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+
+
+
+
+
